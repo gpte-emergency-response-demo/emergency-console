@@ -38,7 +38,7 @@
     "@ng-bootstrap/ng-bootstrap": "^4.1.2",
     "@types/mapbox-gl": "^0.51.6",
     "@types/node": "^12.0.2",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "codelyzer": "^4.5.0",
     "compression": "^1.7.4",
     "core-js": "^2.5.7",
